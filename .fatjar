@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Jun 19 01:10:18 EEST 2012
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=Music Archive Organiser.jar
+manifest.mergeall=true
+manifest.mainclass=com.msc.Music_Form
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=<inc|MusicArchive/images>;<inc|MusicArchive/bin>
